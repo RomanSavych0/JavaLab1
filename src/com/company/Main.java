@@ -12,7 +12,7 @@ public class Main {
         System.out.println(obj.charVariable);
 
 //////////////////////////////////////////////////////////////////////////////////
-        /* TASK 3
+        /* TASK 3ц
         Scanner in = new Scanner(System.in);
         int num;
         for (int i = 0; i <3 ; i++) {
